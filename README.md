@@ -2,7 +2,8 @@
 
 Official Code for the paper:
 
-"**Hidden Biases in Unreliable News Detection Datasets**"
+[**Hidden Biases in Unreliable News Detection Datasets**](https://www.aclweb.org/anthology/2021.eacl-main.211.pdf)
+
 
 Xiang Zhou, Heba Elfardy, Christos Christodoulopoulos, Thomas Butler and Mohit Bansal
 
