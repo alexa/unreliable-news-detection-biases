@@ -14,5 +14,5 @@ tensorflow==2.11.1
 tensorflow-hub==0.9.0
 tldextract==2.2.2
 tqdm==4.46.1
-transformers==4.36.0
+transformers==4.38.0
 wordcloud==1.8.0
