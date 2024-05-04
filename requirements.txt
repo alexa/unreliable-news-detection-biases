@@ -13,6 +13,6 @@ tensorboardX==2.0
 tensorflow==2.11.1
 tensorflow-hub==0.9.0
 tldextract==2.2.2
-tqdm==4.46.1
+tqdm==4.66.3
 transformers==4.38.0
 wordcloud==1.8.0
